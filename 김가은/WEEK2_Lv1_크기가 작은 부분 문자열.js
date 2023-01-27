@@ -1,3 +1,4 @@
+// 최종풀이
 function solution(t, p) {
   const arr = [];
 
