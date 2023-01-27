@@ -4,7 +4,7 @@ function solution(s) {
 }
 
 // 최종 풀이 2
-function solution(s) {
+function solution2(s) {
   return s
     .toLowerCase()
     .split(" ")
