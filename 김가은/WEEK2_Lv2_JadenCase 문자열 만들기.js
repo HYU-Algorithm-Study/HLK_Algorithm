@@ -4,3 +4,10 @@ function solution(s) {
 }
 
 // 최종 풀이 2
+function solution(s) {
+  return s
+    .toLowerCase()
+    .split(" ")
+    .map((a) => a.replace(a[0], a[0]?.toUpperCase()))
+    .join(" ");
+}
