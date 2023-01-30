@@ -23,6 +23,11 @@
     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/147355 (1단계 크기가 작은 부분 문자열)
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12951 (2단계 JadenCase 문자열 만들기)
     </br>
+    
+3.  - 기간: 2023-01-30 ~ 2023-02-05
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/12921 (1단계 소수 찾기)
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12941 (2단계 최솟값 만들기)
+    </br>
 
 
 ### 기타 주의사항
