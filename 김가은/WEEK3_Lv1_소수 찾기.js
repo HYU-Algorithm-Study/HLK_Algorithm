@@ -30,3 +30,5 @@ function solution2(n) {
   }
   return num - 1;
 }
+
+// PR용 커밋

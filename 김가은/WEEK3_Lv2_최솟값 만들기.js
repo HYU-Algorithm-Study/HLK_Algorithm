@@ -5,3 +5,5 @@ function solution(A, B) {
 
   return A.map((a, i) => a * B[i]).reduce((p, c) => p + c);
 }
+
+// PR용 커밋
