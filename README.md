@@ -29,6 +29,9 @@
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12941 (2단계 최솟값 만들기)
     </br>
 
+4.  - 기간: 2023-02-06 ~ 2023-02-12
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/134240 (1단계 푸드 파이트 대회)
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12909 (2단계 올바른 괄호)
 
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. (Ex. 김가은)
