@@ -14,7 +14,7 @@ function solution(n) {
 }
 
 // 최종 풀이 2
-function solution(n) {
+function solution2(n) {
   const sqrt = Math.sqrt(n);
   let num = n;
 
