@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 // 최종 풀이
+=======
+// 최종풀이
+>>>>>>> kimGaeun
 function solution(s) {
   let stack = [];
 
