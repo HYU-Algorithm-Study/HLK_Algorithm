@@ -30,8 +30,15 @@
     </br>
 
 4.  - 기간: 2023-02-06 ~ 2023-02-12
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/42840 (1단계 모의고사)
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/70129 (2단계 이진 변환 반복하기)
+    </br>
+    
+    
+5.  - 기간: 2023-02-13 ~ 2023-02-19
     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/134240 (1단계 푸드 파이트 대회)
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12909 (2단계 올바른 괄호)
+    </br>
 
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. (Ex. 김가은)
