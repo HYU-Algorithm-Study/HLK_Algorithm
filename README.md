@@ -40,6 +40,11 @@
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12909 (2단계 올바른 괄호)
     </br>
 
+5.  - 기간: 2023-02-20 ~ 2023-02-26
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/133499 (1단계 옹알이(2))
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12924 (2단계 숫자의 표현)
+    </br>
+    
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. (Ex. 김가은)
 - 각 문제 풀이가 포함된 파일명에 문제 번호를 포함한다. (Ex: WEEK5.js)
