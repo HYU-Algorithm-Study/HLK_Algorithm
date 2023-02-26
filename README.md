@@ -45,6 +45,11 @@
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12924 (2단계 숫자의 표현)
     </br>
     
+6.  - 기간: 2023-02-27 ~ 2023-03-05
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/67256 (1단계 키패드 누르기)
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12945 (2단계 피보나치 수)
+    </br>
+    
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. (Ex. 김가은)
 - 각 문제 풀이가 포함된 파일명에 문제 번호를 포함한다. (Ex: WEEK5.js)
