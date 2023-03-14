@@ -40,19 +40,24 @@
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12909 (2단계 올바른 괄호)
     </br>
 
-5.  - 기간: 2023-02-20 ~ 2023-02-26
+6.  - 기간: 2023-02-20 ~ 2023-02-26
     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/133499 (1단계 옹알이(2))
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12924 (2단계 숫자의 표현)
     </br>
     
-6.  - 기간: 2023-02-27 ~ 2023-03-05
+7.  - 기간: 2023-02-27 ~ 2023-03-05
     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/67256 (1단계 키패드 누르기)
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12945 (2단계 피보나치 수)
     </br>
 
-6.  - 기간: 2023-03-06 ~ 2023-03-12
+8.  - 기간: 2023-03-06 ~ 2023-03-12
     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/64061 (1단계 크레인 인형뽑기 게임)
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12911 (2단계 다음 큰 숫자)
+    </br>
+    
+9.  - 기간: 2023-03-13 ~ 2023-03-19
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/140108 (1단계 문자열 나누기)
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12973 (2단계 짝지어 제거하기)
     </br>
     
 ### 기타 주의사항
