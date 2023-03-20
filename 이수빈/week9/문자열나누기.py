@@ -3,6 +3,7 @@ def solution(s):
     is_x = 1 # x와 같은 글자의 수
     is_not_x = 0 # x와 다른 글자의 수
     x = s[0] # 첫 글자
+    
     for i in range(1, len(s)):
         if s[i] == x:
             is_x += 1
