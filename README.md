@@ -60,6 +60,11 @@
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12973 (2단계 짝지어 제거하기)
     </br>
     
+10.  - 기간: 2023-03-20 ~ 2023-03-26
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/72410 (1단계 신규 아이디 )
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12981 (2단계 영어 끝말잇기)
+    </br>
+    
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. (Ex. 김가은)
 - 각 문제 풀이가 포함된 파일명에 문제 번호를 포함한다. (Ex: WEEK5.js)
