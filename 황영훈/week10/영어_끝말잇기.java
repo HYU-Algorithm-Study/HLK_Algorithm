@@ -28,6 +28,7 @@ class Solution {
         return answer;
     }
     
+    // 중복된 단어인지 검사하는 함수
     private boolean hasDuplicateElements(ArrayList<String> list) {
         HashSet<String> set = new HashSet<>(list);
         return list.size() != set.size();
