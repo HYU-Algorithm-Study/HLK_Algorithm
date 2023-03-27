@@ -61,8 +61,13 @@
     </br>
     
 10.  - 기간: 2023-03-20 ~ 2023-03-26
-     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/72410 (1단계 신규 아이디 )
+     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/72410 (1단계 신규 아이디 추천)
      - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12981 (2단계 영어 끝말잇기)
+     </br>
+     
+11.  - 기간: 2023-03-27 ~ 2023-04-02
+     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/118666 (1단계 성격 유형 검사하기)
+     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/42842 (2단계 카펫)
      </br>
     
 ### 기타 주의사항
