@@ -23,6 +23,7 @@ class Solution {
                 answer += answer.charAt(answer.length() - 1);
             }
         }
+        
         return answer;
     }
 }
