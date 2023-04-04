@@ -69,6 +69,10 @@
      - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/118666 (1단계 성격 유형 검사하기)
      - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/42842 (2단계 카펫)
      </br>
+     
+12. - 기간: 2023-04-03 ~ 2023-04-09
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/133502 (1단계 햄버거 만들기)
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/42885 (2단계 구명보트)
     
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. (Ex. 김가은)
