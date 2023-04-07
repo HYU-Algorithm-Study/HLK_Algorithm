@@ -13,7 +13,7 @@ function solution(people, limit) {
 }
 
 // 다른 사람 풀이 참고한 코드
-function solution(people, limit) {
+function solution2(people, limit) {
   let i = 0;
   let j = people.length - 1;
 
