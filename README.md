@@ -73,6 +73,12 @@
 12. - 기간: 2023-04-03 ~ 2023-04-09
     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/133502 (1단계 햄버거 만들기)
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/42885 (2단계 구명보트)
+    </br>
+    
+12. - 기간: 2023-04-10 ~ 2023-04-16
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/155652 (1단계 둘만의 암호)
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12985 (2단계 예상 대진표)
+    
     
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. (Ex. 김가은)
