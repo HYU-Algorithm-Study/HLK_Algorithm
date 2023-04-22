@@ -83,6 +83,12 @@
 14. - 기간: 2023-04-17 ~ 2023-04-23
     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/160586 (1단계 대충 만든 자판)
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12980 (2단계 점프와 순간이동)
+    </br>
+    
+14. - 기간: 2023-04-24 ~ 2023-04-30
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/178871 (1단계 달리기 경주)
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12953 (2단계 N개의 최소공배수)
+
     
 ### 기타 주의사항
 - 본인 이름으로 폴더를 생성한다. (Ex. 김가은)
