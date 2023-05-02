@@ -88,6 +88,10 @@
 14. - 기간: 2023-04-24 ~ 2023-04-30
     - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/178871 (1단계 달리기 경주)
     - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12953 (2단계 N개의 최소공배수)
+    
+15. - 기간: 2023-05-01 ~ 2023-05-07
+    - 문제1: https://school.programmers.co.kr/learn/courses/30/lessons/150370 (1단계 개인정보 수집 유효기간)
+    - 문제2: https://school.programmers.co.kr/learn/courses/30/lessons/12914 (2단계 멀리뛰기)
 
     
 ### 기타 주의사항
